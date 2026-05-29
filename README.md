@@ -51,16 +51,6 @@ Tools & Platforms
 
 ---
 
-📸 Project Preview
-
-Add screenshots of your project here.
-
-Screenshot 1
-Screenshot 2
-Dashboard Preview
-
----
-
 📂 Folder Structure
 
 AI-Email-Writer/
