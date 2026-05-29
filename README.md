@@ -80,54 +80,6 @@ AI-Email-Writer/
 
 ---
 
-⚙️ Installation & Setup
-
-1️⃣ Clone Repository
-
-git clone https://github.com/yourusername/AI-Email-Writer.git
-
-2️⃣ Navigate to Project
-
-cd AI-Email-Writer
-
-3️⃣ Install Dependencies
-
-Frontend
-
-cd client
-npm install
-
-Backend
-
-cd server
-npm install
-
----
-
-🔑 Environment Variables
-
-Create a ".env" file inside the server folder and add:
-
-PORT=5000
-MONGO_URI=your_mongodb_connection
-JWT_SECRET=your_secret_key
-OPENAI_API_KEY=your_api_key
-
----
-
-▶️ Run Application
-
-Start Backend
-
-cd server
-npm start
-
-Start Frontend
-
-cd client
-npm start
-
----
 
 💡 Future Enhancements
 
@@ -167,5 +119,3 @@ This project is licensed under the MIT License.
 
 Sneha Chaudhary
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
